@@ -32,8 +32,8 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](www.paumateu.cat)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://www.paumateu.cat)
 [![](https://img.shields.io/badge/-🍴%20Spideat-000)](https://www.spideat.com/)
-[![](https://img.shields.io/badge/-🐕%20Barkingo-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🥕%20Pastanaga%202.0-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-📱%20UPC%20Multipaltform%20App-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🐕%20Barkingo-000)](https://github.com/PauMateu/Barkingo)
+[![](https://img.shields.io/badge/-🥕%20Pastanaga%202.0-000)](https://github.com/PauMateu/Pastanaga-2.0)
+[![](https://img.shields.io/badge/-📱%20UPC%20Multipaltform%20App-000)](https://devpost.com/software/upc-mobile)
