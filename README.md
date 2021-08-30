@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [@PauMateu](https://github.com/paumateu), a Computer Science graduate at [@UPC](https://github.com/UPC).
 - 👀 I’m interested in web and mobile development, front and backend.
-- 🌱 I’m currently learning Flutter and Improving my React skills.
+- 🌱 I’m currently learning Vue and Improving my React skills.
 - 📫 You can reach me by [mail](mailto:pau.mateu.jordi@gmail.com) or via the form on [my website](www.paumateu.cat).
 
 ### Languages
