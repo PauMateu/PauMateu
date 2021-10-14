@@ -19,9 +19,9 @@
 
 ### Technologies
 ![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node-dot-js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue-dot-js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vuedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Cordova](https://img.shields.io/badge/-Cordova-000?&logo=apache%20cordova)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
